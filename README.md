@@ -57,6 +57,7 @@ Library-Management-System/
 
 ## Classes Overview
 
+
 ### Book Class
 - **Attributes**: ISBN, title, author, genre, publication_year, quantity, available_quantity
 - **Methods**: borrow(), return_book(), get_book_details()
